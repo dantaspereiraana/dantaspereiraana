@@ -13,7 +13,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50" border="5"/>
 </p>
 
-<div align="right">
+<div align="center">
   <a href="https://www.dio.me/users/anapereira">Perfil DIO</a> | 
   <a href="www.linkedin.com/in/ana-paula-dantas-982772a8">Perfil LinkedIn</a>
 </div>
+<hr>
+📜 <b>Certificações:</b>
+
+- Algoritmo - Curso em Vídeo.
+- Java Básico - Curso em Vídeo.
+- Versionamento de Código com Git e GitHub - DIO.
