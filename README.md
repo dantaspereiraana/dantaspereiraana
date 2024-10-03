@@ -6,7 +6,7 @@
 
 <p align="justify"> Além disso, curso Letras na mesma universidade, com especialização em Língua Portuguesa e Língua Inglesa, o que amplia minha visão sobre comunicação e linguagem. </p>
 
-<p align="justify">Atualmente estou matriculada no bootcamp <b>GFT Start #6 - Lógica de Programação</b>, adquirindo mais conhecimento neste conteúdo fundamental para um bom programador.  </p>
+<p align="justify">Atualmente estou matriculada no bootcamp <b>GFT Start #6 - Lógica de Programação</b>, adquirindo mais conhecimento neste conteúdo fundamental para um bom desenvolvedor.  </p>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" border="5"/>
