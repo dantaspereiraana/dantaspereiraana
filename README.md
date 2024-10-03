@@ -6,3 +6,4 @@
 <p align="justify"> Além da faculdade de ADS, também curso Letras na Unisantos, sendo focado na Língua Portuguesa e na Língua Inglesa. </p>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" border="5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50" border="5"/></p>
+[Perfil DIO](https://www.dio.me/users/anapereira)
