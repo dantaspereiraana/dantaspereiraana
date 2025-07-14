@@ -36,8 +36,8 @@ Utilizei HTML, CSS e JavaScript no desenvolvimento de interfaces web, com atenç
 <hr>
 ✔️ <b>Certificações:</b>
 
-- Algoritmo - Curso em Vídeo.
-- Java Básico - Curso em Vídeo.
+- Armazenamento de Dados com Docker - DIO.
+- Java: trabalhando com Lambdas, Streams e Spring Framework - Alura.
 - Versionamento de Código com Git e GitHub - DIO.
 
 
