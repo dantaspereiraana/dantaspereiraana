@@ -3,8 +3,21 @@
 <img align="right" src="https://i.ibb.co/HznyDsN/0721cbba-8ecc-4ceb-beb8-531dac333a79.jpg" alt="foto" width="250" height="250" border="5">
 
 <p align="justify"> Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Santos (Unisantos), Santos/SP. Atualmente estou focada em me aperfeiçoar na linguagem Java. </p>
+---
+<p align="justify">💻 Experiências com Desenvolvimento de Software
+Ao longo da minha jornada como desenvolvedora, venho construindo e aprimorando projetos que refletem meu crescimento técnico e minha paixão por resolver problemas com tecnologia. Cada linguagem e ferramenta que utilizei contribuiu de forma única para minha formação prática e profissional. Aqui estão algumas das principais experiências que adquiri:
 
-<p align="justify"> Além disso, curso Letras na mesma universidade, com especialização em Língua Portuguesa e Língua Inglesa, o que amplia minha visão sobre comunicação e linguagem. </p>
+☕ Java com Spring Boot
+Desenvolvi aplicações web utilizando o Spring Boot, explorando conceitos fundamentais como estrutura MVC, injeção de dependência, JPA/Hibernate para persistência de dados, e criação de APIs RESTful. Com esses projetos, aprendi a estruturar aplicações robustas e escaláveis, implementar boas práticas de arquitetura e trabalhar com bancos de dados relacionais de forma eficiente.
+
+🐳 Docker
+Integrei o uso de Docker para criar ambientes isolados e reproduzíveis, facilitando o deploy e testes de aplicações. Aprendi a criar Dockerfiles, trabalhar com docker-compose e a gerenciar imagens e containers para simular ambientes de produção e garantir maior confiabilidade no ciclo de desenvolvimento.
+
+🔵 C#
+Participei de projetos utilizando C#, onde desenvolvi soluções orientadas a objetos com foco em clareza de código e reutilização. Explorei também o uso de .NET em desafios de bootcamps, trabalhando com persistência de dados e regras de negócio aplicadas a sistemas reais.
+
+🌐 HTML, CSS e JavaScript
+Utilizei HTML, CSS e JavaScript no desenvolvimento de interfaces web, com atenção especial à semântica, responsividade e interatividade. Com esses projetos, aprimorei meu senso de design, acessibilidade e usabilidade, criando experiências visuais que dialogam bem com o back-end das aplicações.</p>
 
 <p align="justify">Atualmente estou matriculada no bootcamp <b>GFT Start #6 - Lógica de Programação</b>, adquirindo mais conhecimento neste conteúdo fundamental para um bom desenvolvedor.  </p>
 
