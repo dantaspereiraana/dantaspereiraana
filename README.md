@@ -2,8 +2,10 @@
 
 <img align="right" src="https://i.ibb.co/HznyDsN/0721cbba-8ecc-4ceb-beb8-531dac333a79.jpg" alt="foto" width="250" height="250" border="5">
 
-<p align="justify"> Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Santos (Unisantos), Santos/SP. Atualmente estou focada em me aperfeiçoar na linguagem Java. </p>
+<p align="justify"> Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Santos (Unisantos), Santos/SP. Atualmente estou faço parte do <b>Programa Desenvolve da Escola Koru + Grupo Boticário </b>. </p>
+
 ---
+
 <p align="justify">💻 Experiências com Desenvolvimento de Software
 Ao longo da minha jornada como desenvolvedora, venho construindo e aprimorando projetos que refletem meu crescimento técnico e minha paixão por resolver problemas com tecnologia. Cada linguagem e ferramenta que utilizei contribuiu de forma única para minha formação prática e profissional. Aqui estão algumas das principais experiências que adquiri:
 
@@ -23,6 +25,10 @@ Utilizei HTML, CSS e JavaScript no desenvolvimento de interfaces web, com atenç
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" border="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" border="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50" height="50" border="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" border="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" border="5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50" border="5"/>
 </p>
 
